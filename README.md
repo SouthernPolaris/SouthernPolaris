@@ -2,7 +2,7 @@
 
 ---
 
-### I'm a student cybersecurity-focused software engineer. I also have experience in backend web development and API integration.
+### I'm a student software engineer. I have experience in backend web development and API integration. I am also proficient in the Linux command-line interface
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-007B5?color=red&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asrith-atluri/)
